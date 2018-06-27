@@ -7,7 +7,7 @@ pipeline {
     
   }
   stages {
-    stage('') {
+    stage('run') {
       steps {
         sh 'ks'
       }
