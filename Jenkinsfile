@@ -7,7 +7,7 @@ pipeline {
     
   }
   stages {
-    stage('') {
+    stage('stage-ex') {
       steps {
         sh 'ks'
       }
